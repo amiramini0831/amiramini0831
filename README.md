@@ -9,7 +9,9 @@ I'm actively expanding my skill set to extract meaningful insights from data.
 - 🧠 Fascinated by data science, machine learning, and decision intelligence  
 - 🌱 Constantly learning and improving, one dataset at a time
 - 💞️ I’m looking to collaborate on teams who are working on interesting ideas in world
-- 📫 Let's Connect!
+ 
+## 📫 Let's Connect!
+
 Feel free to reach out, collaborate, or just chat about data, AI, and beyond!  
 You can find me on:
 
